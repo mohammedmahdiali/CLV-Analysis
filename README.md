@@ -5,3 +5,6 @@ Customer lifetime value or CLV is a forecast over a period of time of a customer
 
 #### Customer Purchase Patterns
 !["purchase_patterns.png"](purchase_patterns.png)
+
+#### Customer Segments with Recency & Frequency
+!["customer_segments_recency_frequency.png"](customer_segments_recency_frequency.png)
